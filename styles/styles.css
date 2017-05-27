@@ -1,23 +1,38 @@
+/* Form styles */
+
 form {
   border: 1px;
   border-color: black;
-  width: 500px;
-  height: 40px;
+  width: 1000px;
+  height: 50px;
 }
 
+/* Image styles */
 .logo {
-  width: 100px;
+  width: 300px;
   height: 100px;
 }
 
-.gmailtext, .imagestext, .canada {
+/* Text styles */
+
+p {
   size: 13px;
   font-family: Arial, sans-serif;
   font-weight; none;
   display: inline;
 }
 
-.gmailtext {
-  top: 90%
-  left: 90%
+/* List styles */
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  display: block;
+}
+
+a:hover {
+  text-decoration: underline;
+  text-decoration-color: lightblue;
 }
