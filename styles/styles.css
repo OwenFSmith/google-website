@@ -1,0 +1,23 @@
+form {
+  border: 1px;
+  border-color: black;
+  width: 500px;
+  height: 40px;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+}
+
+.gmailtext, .imagestext, .canada {
+  size: 13px;
+  font-family: Arial, sans-serif;
+  font-weight; none;
+  display: inline;
+}
+
+.gmailtext {
+  top: 90%
+  left: 90%
+}
