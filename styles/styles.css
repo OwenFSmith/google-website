@@ -11,6 +11,10 @@ form {
 .logo {
   width: 300px;
   height: 100px;
+  display: block;
+  margin: auto;
+  padding-top: 150px;
+  padding-right: 100px;
 }
 
 /* Text styles */
@@ -30,9 +34,27 @@ ul {
 
 li {
   display: block;
+  float: left;
 }
 
 a:hover {
   text-decoration: underline;
   text-decoration-color: lightblue;
 }
+
+/* CLass styles */
+
+.imageslink {
+  padding:
+}
+
+/* ID Styles */
+
+#canada
+color: #4285f4;
+font-size: 16px;
+left: 79px;
+position: relative;
+top: -20px;
+white-space: nowrap;
+width: 0;
